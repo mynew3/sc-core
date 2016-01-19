@@ -35,4 +35,6 @@ This is the core of the Shadowcrown Server project. Here are all the server file
 17. Open up mangosd.conf
 18. Save the file with encoding Western (Windows 1252)
 19. Do the same for realmd.conf
+20. Open up mangosd.conf again.
+21. set ```StrictPlayerNames```, ```StrictCharterNames``` and ```StrictPetNames``` to 1
 17. You’re done!
