@@ -32,4 +32,7 @@ This is the core of the Shadowcrown Server project. Here are all the server file
 14. Click the run button.
 15. Go into the ```install/etc``` folder.
 16. Remove the ```.dist``` suffixes from the files.
+17. Open up mangosd.conf
+18. Save the file with encoding Western (Windows 1252)
+19. Do the same for realmd.conf
 17. You’re done!
